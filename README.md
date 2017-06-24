@@ -28,7 +28,7 @@ To change it to real authentication, you’d only have to import `request.js` in
 
 ## Getting started
 
-1. Clone this repo using `git clone git@github.com:mxstbr/login-flow`.
+1. Clone this repo using `git clone git@github.com/rising32/react-drag-and-drop`.
 
 2. Run `npm install` to install the dependencies.
 
